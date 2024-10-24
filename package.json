@@ -1,0 +1,16 @@
+{
+  "name": "pnpm-update-interactive-overflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/plugin-transform-logical-assignment-operators": "^7.25.8",
+    "@babel/preset-react": "^7.25.7"
+  }
+}
